@@ -1,0 +1,6 @@
+git status
+git init - create a new repo
+git add name - add a file to repo
+git add * - add all files in verzeichnis
+git commit -m "Initial commit"
+git log
