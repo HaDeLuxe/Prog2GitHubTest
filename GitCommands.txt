@@ -5,3 +5,4 @@ git add * - add all files in verzeichnis
 git commit -m "Initial commit"
 git log
 git rm README.md /löschen aus datenbank und aus repo
+git revert --hard
